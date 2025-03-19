@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlad Alexandrescu
-- 👀 I’m interested in Java Back End Development & Cyber Security/Ethical Hacking
-- 🌱 I’m currently practicing Java development, but I recently discovered I have a big passion for Cyber Security
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently practicing my full-stack skills
 - 📫 Message me on LinkedIn: https://www.linkedin.com/in/vlad-stefan-alexandrescu-2b2281253/
 - 📧 Email me to work together: vlad.alexandrescu105@gmail.com
 <!---
