@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlad Alexandrescu
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently practicing my Java skills
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning to become a SOC Analyst/Cyber Security Analyst
 - 📫 Message me on LinkedIn: https://www.linkedin.com/in/vlad-stefan-alexandrescu-2b2281253/
 - 📧 Email me to work together: vlad.alexandrescu105@gmail.com
 <!---
