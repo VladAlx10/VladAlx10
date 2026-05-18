@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlad Alexandrescu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Data Engineering Frameworks
 - 📫 Message me on LinkedIn: https://www.linkedin.com/in/vlad-stefan-alexandrescu-2b2281253/
 - 📧 Email me to work together: vlad.alexandrescu105@gmail.com
 <!---
